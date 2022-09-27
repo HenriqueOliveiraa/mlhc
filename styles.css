@@ -23,3 +23,22 @@ body{
     margin:0 auto;
     padding:0 2%;
 }
+.search-bar{
+    width: 20%;
+}
+.navbar-img{
+    width: 35%;
+}
+.venezza-logo{
+    height: 80px;
+}
+.search-bar-input{
+    padding-right: 25%;
+}
+.contact-anchor{
+    padding-left: 15%;
+}
+.search-button{
+    background-color: black;
+    color: white;
+}
